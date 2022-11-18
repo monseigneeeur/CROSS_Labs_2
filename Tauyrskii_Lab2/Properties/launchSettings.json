@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Tauyrskii_Lab2": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"D:\\KNU\\CROSS\\Tauyrskii_Lab2\\Files\\INPUT.txt\"\r\n-o \"D:\\KNU\\CROSS\\Tauyrskii_Lab2\\Files\\OUTPUT.txt\""
+    }
+  }
+}

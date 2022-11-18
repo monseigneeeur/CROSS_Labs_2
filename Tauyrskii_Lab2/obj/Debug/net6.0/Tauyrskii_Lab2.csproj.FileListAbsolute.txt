@@ -1,0 +1,17 @@
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\bin\Debug\net6.0\Tauyrskii_Lab2.exe
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\bin\Debug\net6.0\Tauyrskii_Lab2.deps.json
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\bin\Debug\net6.0\Tauyrskii_Lab2.runtimeconfig.json
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\bin\Debug\net6.0\Tauyrskii_Lab2.dll
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\bin\Debug\net6.0\Tauyrskii_Lab2.pdb
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\bin\Debug\net6.0\McMaster.Extensions.CommandLineUtils.dll
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\Tauyrskii_Lab2.csproj.AssemblyReference.cache
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\Tauyrskii_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\Tauyrskii_Lab2.AssemblyInfoInputs.cache
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\Tauyrskii_Lab2.AssemblyInfo.cs
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\Tauyrskii_Lab2.csproj.CoreCompileInputs.cache
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\Tauyrskii_Lab2.csproj.CopyComplete
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\Tauyrskii_Lab2.dll
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\refint\Tauyrskii_Lab2.dll
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\Tauyrskii_Lab2.pdb
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\Tauyrskii_Lab2.genruntimeconfig.cache
+D:\KNU\CROSS\Tauyrskii_Lab2\Tauyrskii_Lab2\obj\Debug\net6.0\ref\Tauyrskii_Lab2.dll
